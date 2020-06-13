@@ -10,7 +10,7 @@ project:1 Salary-determening-System
  decorator design pattern because the rating range and the overtime time can be changed overtime.
  So six class of rate determiner in the decorator folder .so those separated class can incapsulate the detail 
  when the project get bigger and when change of requirement happen there is no change in main class (client) 
- so changes occur duringre runtime not compile time.
+ so changes occur during runtime not compile time.
 # event-driven
 project:2 text-editor implemented using event-driven design pattern.
      This System simple text editor for demo.Its functionality:
