@@ -13,6 +13,7 @@ project:1 Salary-determening-System
  so changes occur during runtime not compile time.
 # event-driven
 project:2 text-editor implemented using event-driven design pattern.
-     This System simple text editor for demo.Its functionality:
+     This System simple text editor for demo.
+  Its functionality:
         -creating any file and save to file system.
         -opening the existing file and edit.
